@@ -5,8 +5,8 @@ import {IoIosArrowUp} from 'react-icons/io'
 function Footer() {
   return (
     <div className='w-full'>
-      <div className='container mx-auto border grid grid-cols-4'>
-        <div className='px-4 w-1/3 border'>
+      <div className='container mx-auto grid grid-cols-4'>
+        <div className='px-4 w-1/3'>
           <img 
           src='https://www.salesforce.com/content/dam/web/en_is/www/images/logo/salesforce-cloud-logo-sm.png' 
           className=' mt-10 mb-3'
